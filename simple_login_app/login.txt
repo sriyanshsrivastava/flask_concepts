@@ -1,0 +1,7 @@
+tasks it performs
+
+1. Login mage
+2. accept username and password
+3. session store
+4. redirect to welcome page.
+5. logout
